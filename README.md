@@ -1,4 +1,4 @@
-# Number-Guessing-Game-c-
+
 # Number Guessing Game (C++)
 
 ## Description
