@@ -122,5 +122,8 @@ This project helps in understanding:
 ## Author
 
 Duaa shahzad
+Air University Karachi Campus
+Department of Computer Science
+Programming Fundamentals Project
 
 ---
