@@ -120,9 +120,10 @@ This project helps in understanding:
 ---
 ## Author
 Name: Duaa Shahzad  
-ID: 2540122
+ID: 2540122  
 Institute: Air University Karachi Campus  
 Department: Computer Science  
-Course: Programming Fundamentals
+Course: Programming Fundamentals  
+
 
 ---
