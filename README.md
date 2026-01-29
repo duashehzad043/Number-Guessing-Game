@@ -44,9 +44,6 @@ The program generates a random number between 1 and 10 and allows the user to gu
 
 ---
 
-
----
-
 ## Limitations
 - Single player only  
 - No difficulty levels  
